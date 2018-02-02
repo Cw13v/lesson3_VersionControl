@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(Feburary 02, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Collin Wade)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(Setting up Cloud9 and GIT)
+
+## View Project:
+(https://cw13v.github.io/wade_lesson3_VersionControl/)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned what a GIT is.
+2. We learned the what a version control is.
+3. We learned what a remote and local repositry are and how they work together.
 
